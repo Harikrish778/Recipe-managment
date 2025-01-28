@@ -1,0 +1,29 @@
+<tr>
+            <td >23456</td>
+            <td>Classic Spaghetti Aglio e Olio</td>
+            <td>Spaghetti: 400g
+            Garlic: 6-8 cloves, thinly sliced
+            Olive oil: 1/4 cup (extra virgin)
+            Red chili flakes: 1 teaspoon (adjust to taste)
+            Fresh parsley: 2 tablespoons, finely chopped
+            Parmesan cheese: Optional, for garnish
+            Salt: To taste
+            Black pepper: To taste
+            Lemon zest: Optional, for added freshness</td>
+            
+            <td>
+                <img src="https://storage.googleapis.com/gen-atmedia/3/2018/07/e77cb676a9408994b6b07b673d46d17bdbf8814c.jpeg" height={'300px'} alt="" />
+            </td>
+            <td>
+            <div>
+                    <td>
+                    <Edit/>
+                    </td>
+
+                    <td>
+                    <button className='btn btn-danger me-4'>Delete</button>
+                    </td>
+                </div>
+            </td>
+            
+        </tr>

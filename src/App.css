@@ -1,0 +1,5 @@
+ .ms-auto {
+        margin-left: auto; /* Push the button to the right */
+        margin-right: 24px; /* Optional: Adjust spacing from the right edge */
+        
+    }
